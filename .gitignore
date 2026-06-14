@@ -1,0 +1,20 @@
+# Maven build output
+target/
+
+# Compiled class files
+*.class
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# QR codes generated at runtime
+src/main/webapp/qrcodes/*.png
